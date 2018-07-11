@@ -1,0 +1,8 @@
+{
+  "name": "Lunar-Birthday-Converter",
+  "app_id": "a0c75615",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
